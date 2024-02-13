@@ -1,18 +1,20 @@
-h1.text-center{
-  font-size: 2em; /* Adjusted for better visibility */
+h1.text-center {
+  font-size: 2em;
+  /* Adjusted for better visibility */
   font-weight: bold;
 }
 
 div.menu-section {
-  background-color: #f0f0f0; /* Lighter grey for better contrast */
+  background-color: #f0f0f0;
+  /* Lighter grey for better contrast */
   padding: 20px;
-  margin: 20px; /* Adjusted for spacing around the sections */
+  margin: 20px;
 }
 
-p.section-header{
-    text-align: center;
-    font-size: 1.5em;
-    font-weight: bold;
+p.section-header {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
 
 }
 
@@ -30,15 +32,16 @@ h2.text-center {
 
 /* Adjust the dropdown menu styling for mobile view */
 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
-    text-align: center !important;
-    display: block;
+  text-align: center !important;
+  display: block;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #ccc; /* Adjusts the toggle button border color */
+  border-color: #ccc;
 }
 
 /* Specific styles for mobile menu to ensure full width and distinguishable background */
 .navbar-collapse.in {
-  background-color: lightgreen; /* Dark background for the dropdown */
+  background-color: lightgrey;
+  text-align: center !important;
 }
